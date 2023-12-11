@@ -41,3 +41,7 @@ Charts Requirement
 
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
+
+![Dashboard 1](https://github.com/Vishant2326/CarDekho-Car-Analytics/assets/96056284/108918a1-ece7-46f2-8059-c49bdfee310d)
+
+
